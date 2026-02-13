@@ -1,0 +1,7 @@
+
+__pycache__/
+.pytest_cache/
+.env
+venv/
+*.log
+data/  # Avoid pushing the local Postgres data volume
