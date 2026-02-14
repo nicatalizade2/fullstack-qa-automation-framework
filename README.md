@@ -1,4 +1,4 @@
-# 🚀 Fullstack QA Automation Framework
+#  Fullstack QA Automation Framework
 
 ## 🏗️ Tech Stack
 *   **Backend:** FastAPI (Python 3.9)
